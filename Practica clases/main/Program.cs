@@ -10,6 +10,8 @@ namespace Practica_clases
     {
         static void Main(string[] args)
         {
+         
+
         }
     }
 }
